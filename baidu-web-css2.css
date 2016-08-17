@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-size:12px;}
+body{
+	margin:0;
+	padding:0;
+	background-color:#CCC;
+	font-family:"宋体";
+	line-height:30px;}
+span{
+	color:#999;}
+h2{
+	color:#999;
+	font-size:16px;}
+h1{
+	font-size:20px;}
+.title{
+	font-size:11px;
+	color:#808080}
+#head{
+	
+	width:auto;
+	background-color:#333;
+	margin-top:0;}
+#head ul {
+	position:absolute;
+	right:0;
+	top:15px;}
+#head ul li {
+	list-style:none;
+	float:left;
+	margin-left:5px;}
+#head ul li a{
+	text-decoration:none;
+	color:#FFF;}
+.mune{
+	width: 1600px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	background-color:#FFF;
+	border-bottom:2px solid #333;
+	border-right:2px solid #333;
+    border-top:1px solid #CCC;
+	border-left:1px solid #CCC;
+	overflow: auto;
+	}
+.imgbox{
+	height:100px;
+	width:100px;
+	border:1px solid #CCC;
+	margin-top:25px;
+	margin-left:50px;
+	text-align:center;
+	}
+.imgbox span{
+	color:#000;}
+.imgbox img{
+	height:60px;
+	width:60px;
+	}
+table{
+	width:1600px;
+	border-collapse:collapse;
+	}
+th{
+	border:1px solid #999;
+	background-color:#333;
+	color:#FFF;}	
+td{
+	border:1px solid #999;
+	}
+.textline{
+	position:absolute;
+	left:300px;
+	}
+.mform{
+	margin-left:30%;
+	margin-bottom:10px;}
+#submitbutton{
+	width:90%;
+	height:35px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#06C;
+	-webkit-border-radius: 10px;
+    border-radius: 10px;
+	}
+#submitbutton input{
+	border:1px solid #06C;
+	background-color:#06C;
+	font-size:18px;
+	
+	height:30px; line-height:30px;
+	}
