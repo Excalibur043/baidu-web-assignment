@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+#main{
+	border:1px solid #999;
+	background-color:#eee;
+	overflow:hidden;
+	padding:20px;
+	}
+#leftbox{
+	width:200px;
+	background-color:#FFF;
+	border:1px solid #999;
+	float:left;
+	
+	}
+#rightbox{
+	width: 120px;
+	background-color: #FFF;
+	border: 1px solid #999;
+	float: right;
+	}
+.logoshow{
+	width:80px;
+	height:80px;
+	background-color:#eee;
+	border:1px solid #999;
+	margin:20px;
+	}
+#teamlogo{
+	width:80px;
+	height:80px;
+	background-color:#eee;
+	border:1px solid #999;
+	float:left;
+	margin:20px;
+	}
+#teamlogo img{
+	width:80px;
+	height:80px;
+	}
+#leftbox #text{
+	width:58px;
+	background-color:#666;
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	margin-bottom:20px;a
+	}
+#centerbox{
+	background-color:#FFF;
+	border:1px solid #999;
+	margin-right:140px;
+	margin-left:220px;
+	}
+#rightbox img{
+	width:80px;
+	height:80px;
+	}
